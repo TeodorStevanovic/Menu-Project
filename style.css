@@ -1,0 +1,57 @@
+body {
+  background-image: url(https://wallpapers.com/images/hd/dark-wood-background-1920-x-1200-7iuvdbf2p8rgpuhx.jpg);
+  font-family: Georgia, serif;
+}
+
+h1,
+h3,
+p {
+  text-align: center;
+}
+
+h3 {
+  font-family: system-ui;
+}
+
+main p {
+  font-family: serif;
+  font-style: italic;
+}
+
+hr {
+  border-color: black;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: brown;
+}
+
+footer {
+  margin-top: 30px;
+}
+
+.menu {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  background-color: wheat;
+}
+
+.product p {
+  display: inline-block;
+}
+
+.drink {
+  width: 75%;
+  text-align: left;
+}
+
+.price {
+  width: 25%;
+  text-align: right;
+}
